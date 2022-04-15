@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.classic.the.danielcolonxdz",
+    "sha256_cert_fingerprints":
+    ["12:6D:78:56:4F:CF:F6:32:E8:0B:D4:0A:C3:9D:91:12:1F:25:00:68:04:8D:30:F3:C2:65:1F:15:1C:E3:63:AA"]
+  }
+}]
